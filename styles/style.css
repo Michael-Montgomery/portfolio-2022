@@ -59,6 +59,7 @@ header nav a:first-child {
 
 header nav a:hover {
     border-bottom: 2px solid black;
+    
 }
 
 #about-wrapper {
